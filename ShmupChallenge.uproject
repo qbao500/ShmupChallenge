@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{59CC649E-4FD7-86B3-7261-21A0E17778AB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShmupChallenge",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
