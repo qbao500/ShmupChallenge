@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{59CC649E-4FD7-86B3-7261-21A0E17778AB}",
+	"EngineAssociation": "{13EEB166-4CAB-5515-B503-1EB27F7D5D53}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -9,7 +9,8 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"Engine",
+				"AnimGraph"
 			]
 		}
 	]
